@@ -1,3 +1,5 @@
+# This patch is unsupported by the Lazurus Mobile Foundation.
+
 --- ./support/kconfig/Makefile  2015-01-16 12:58:59.002108400 +0000
 @@ -35,20 +35,21 @@
  conf_OBJ = $(patsubst %.c,%.o,$(conf_SRC))
