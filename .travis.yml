@@ -1,3 +1,4 @@
+# Build Lazarus with Travis CI
 language: c
 before_install:
 - sudo apt-get update -qq
